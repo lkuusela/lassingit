@@ -1,8 +1,8 @@
-#Tervetuloa Lassin gitsivuille!
+# Tervetuloa Lassin gitsivuille!
 
 Tervetuloa katsomaan git väsäilyjä. 
 
-##Lisää faktoja
+## Lisää faktoja
 
 Uroskoirat haluavat domminoida muita.
 
